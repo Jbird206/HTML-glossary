@@ -1,0 +1,40 @@
+<h1> Header
+
+<h2>, <h3> etc Headers of various sizes.
+
+<p> paragraph
+
+<li> list
+
+<ol> ordered list
+
+<ul> unordered list
+
+<style>
+body {
+    background-color: #00ff00;
+}
+</style> change background color
+
+<img src="img/example.png" width="200" height="300" alt="example description"> insert image via image folder
+
+<img src="https://www.wikihow.com/example.jpg"width="100" height="100"> insert an image via hyperlink
+
+<a> <a href="https://www.example.com">Check out my example!</a> create hyperlink, with clickable text
+
+&#160; creates a space
+
+<center>  centers text/images etc.
+
+<em> emphasize
+
+<link href="css/styles.css" rel="stylesheet" type="text/css" media="all"> create link to your styles sheet. |
+<head>
+    <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
+    <meta charset="utf-8">
+    <title>Mwebsite title</title>
+  </head>                                                                                  
+
+<span> used to call an element from the style sheet inline |  <span class="class"> what we see it's calling</span>
+
+<div> used to call an element for a block |<div class="important"> <h2>You better read this</h2> <p>Here are the things you really need to know.</p></div>
